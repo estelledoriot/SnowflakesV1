@@ -1,3 +1,8 @@
+"""Estelle Doriot
+Catch the snowflakes game
+You control a polar bear to catch snowflakes and avoid lightning.
+"""
+
 from random import randint
 import pygame
 
